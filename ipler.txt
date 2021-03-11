@@ -1,1 +1,5 @@
-liste = { {"SesSistemi","217.195.202.67"}}
+liste = {
+        {"SesSistemi","217.195.202.67"
+        
+        }
+        }
