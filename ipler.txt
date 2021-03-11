@@ -1,9 +1,5 @@
 liste = {
-	["SesSistemi"]={
-		["217.195.202.67"]="owner",
-	},
-	["PavyonSistemi"]={
-		["217.195.202.67"]="owner",
-	},
-}
+	["SesSistemi"]={["217.195.202.67"],},
+	["PavyonSistemi"]={["217.195.202.67"],},
+	}
 
