@@ -1,5 +1,1 @@
-  liste = {
-	["SesSistemi"]={
-		["217.195.202.67"]="|M4VI|'App#1869"
-	}
-}
+liste = { {"SesSistemi","217.195.202.67"}}
