@@ -1,4 +1,4 @@
-ipliste = {
+liste   = {
 	["SesSistemi"]={
 		["51.195.58.112"]="Sucortagımm#5579 Yeni IP",
 		["185.198.198.119"]="O P T 4 C#7751",
